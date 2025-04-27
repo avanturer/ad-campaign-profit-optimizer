@@ -88,7 +88,7 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone https://github.com/avanturer/ad-campaign-optimization.git
+    git clone https://github.com/avanturer/ad-campaign-profit-optimizer.git
     ```
 2. Установите зависимости:
     ```
